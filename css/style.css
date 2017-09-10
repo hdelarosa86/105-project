@@ -2,6 +2,9 @@ section {
 	width: 800px;
 	margin: 100px auto;
 }
+h1{
+	color: red;
+}
 section h1,
 section p {
 	text-align: center;
@@ -14,3 +17,4 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
